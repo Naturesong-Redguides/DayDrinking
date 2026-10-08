@@ -16,7 +16,7 @@ Use of macroquest on Everquest Live and test is a breach of the games EULA.
 
 ### Installing
 
-Place the script in the macroquest\Release\lua\DayDrinking folder
+Place the script in the `macroquest\Release\lua\DayDrinking` folder
 
 ### Executing program
 
@@ -35,3 +35,5 @@ Place the script in the macroquest\Release\lua\DayDrinking folder
 
 * [Kaen], [Hytiek] and [Toadwart] kindly helped me navigate lua fundamentals when I first started this script.
 * [Aquietone] for the Lua Expression Evaluator and other excellent lua resources
+* [Special Ed] whose excellent examples in Lootly and ButtonMaster I've cribbed from
+* [Knightly] whose Write library I made use of in older version, and the studt of which helped my understanding of lua generally
